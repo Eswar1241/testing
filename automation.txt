@@ -2,3 +2,7 @@ this is the file i was editing for the 1st time to
 move this file to tracked stage area and then to
 commit the files and parlelly i am creating the directory also
 for ignoring the fol files using .gitignore command
+
+
+This time i am using the git diff command will see what the 
+output will show
