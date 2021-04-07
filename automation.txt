@@ -9,3 +9,6 @@ output will show
 
 This time i am editing this file from GUI and this need to show in the command line
 with the help of git pull command
+
+
+This time file edited in dev1 branch
